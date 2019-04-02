@@ -1,6 +1,6 @@
 # _Arrays and Looping Practice: Mad Libs Game_
 
-#### _Collect inputs from user and return them in a story, last updated on 04/01/2019_
+#### _Collect inputs from user into an array, loop through that array and returns inputs in a story, last updated on 04/01/2019_
 
 #### By _**Marc Davies**_
 
