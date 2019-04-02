@@ -1,18 +1,22 @@
-# _Mad Libs Game_
+# _Arrays and Looping Practice: Mad Libs Game_
 
-#### _Collect inputs from user and return them in a story, last updated on 03/27/2019_
+#### _Collect inputs from user and return them in a story, last updated on 04/01/2019_
 
-#### By _**Kerriann Walker, Marc Davies**_
+#### By _**Marc Davies**_
 
 ## Description
 
-_This webpage uses a form which collects various inputs from the user and assigning each an id. A JS script assigns a value to each id and creates a variable which is them being displayed in the story paragraph_
+_User fills in the inputs, hits the button and a function will:_
+
+* _Create an array that will store the user inputs_
+* _Loop through that array to add a value to each input_
+* _Populate a story with the user inputs</li> being displayed in the story paragraph_
 
 ## Setup/Installation Requirements
 
 * _Clone from GitHub_
 * _Open index.html_
-* _Alternatively, launch marclignarius.github.io/madlibs_
+* _Alternatively, launch marclignarius.github.io/arraysmadlibs_
 
 ## Known Bugs
 
@@ -30,4 +34,4 @@ _HTML, Atom, CSS, JS_
 
 *This software is licensed under GPL license*
 
-Copyright (c) 2019 **_Kerriann Walker, Marc Davies_**
+Copyright (c) 2019 **_Marc Davies_**
